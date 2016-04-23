@@ -1,0 +1,28 @@
+name: Munich
+favicon: null
+layout_spectrum: 0.15784797654487193
+typography_spectrum: 0.9189194124191999
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.07717412197962403
+  lightness: 0.5142599151004106
+  saturation: 0.979540504515171
+  rhythmicContrast: 0.21096475655212998
+purpose: []
