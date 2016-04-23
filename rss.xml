@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Home of really good beer!]]></title>
+        <description><![CDATA[Home of really good beer!]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sat, 23 Apr 2016 08:40:04 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Hello this is Munich. Want to drink real good bavarian beers? No problem, simply order them on web-beer.com - your home base for really good bavarian brews.</p>]]></description>
+            <link>undefinedhello-this-is-munich-want-to-drink-real-good-bavarian-beers/index.html</link>
+            <guid isPermaLink="false">5bd705d7-d509-4366-a177-875b9f1b315b</guid>
+            <pubDate>Sat, 23 Apr 2016 08:40:04 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
